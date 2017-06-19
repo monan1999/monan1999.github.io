@@ -1,5 +1,5 @@
 # Welcome to My Hackathon Page
- 
+## Hi, thank you for joining us 
 ## About
  
 You can use the [editor on GitHub](https://github.com/ssternAFSE/ssternAFSE.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
